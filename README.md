@@ -59,7 +59,7 @@ English <br/>
 Swahili
 
 ## PROFILE VIEWS
-![Profile Views](https://komarev.com/ghpvc/?username=joshuaMarandi)
+![Profile Views](https://komarev.com/ghpvc/?username=whiteraven29)
 
 <!---
 
